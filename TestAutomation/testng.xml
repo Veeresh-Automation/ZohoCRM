@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="base.BaseTest"/>
+       <class name="Testcases.MyfirstTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
