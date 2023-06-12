@@ -1,13 +1,12 @@
 package Testcases;
-
 import java.io.IOException;
-
 import org.openqa.selenium.By;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.testng.annotations.Test;
 
-import UI_Elements.Locater;
+import UIElement.Locater;
 import base.BaseTest;
+
 
 public class MyfirstTest extends BaseTest{
 	
